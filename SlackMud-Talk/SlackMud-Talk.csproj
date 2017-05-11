@@ -99,12 +99,15 @@
     <Content Include="images\CSharpdotnet.jpg" />
     <Content Include="images\EarlyMudPlayer.gif" />
     <Content Include="images\FrameworkConnections.png" />
+    <Content Include="images\Map.jpg" />
     <Content Include="images\Mud.jpg" />
     <Content Include="images\MUD1_screenshot.gif" />
     <Content Include="images\NPC-Responses.png" />
     <Content Include="images\Play-Skype.png" />
     <Content Include="images\Play-Slack.png" />
     <Content Include="images\Play-Web.png" />
+    <Content Include="images\RExcel.png" />
+    <Content Include="images\RExcelTabs.png" />
     <Content Include="images\Technology.png" />
     <Content Include="images\where-next.jpg" />
     <Content Include="packages.config" />
